@@ -55,8 +55,8 @@ subprocess.call ([r'PATH\\uninstall_apps.bat'])> The file name "uninstall_apps.b
 In PATH it should go:
 - Disk location (example C:\)
 - Users folder (C:\Users\)
-- User (C: \Users\YOUR USER\)
-- Location where BOOST.rar is (C:\ Users\YOUR USER\LOCATION\) Example: Desktop, Documents.
+- User (C:\Users\YOUR USER\)
+- Location where BOOST.rar is (C:\Users\YOUR USER\LOCATION\) Example: Desktop, Documents.
 - It would look something like this:
 
 C: \Users\YOUR USER\LOCATION\BOOST\bats\\uninstall_apps.bat
